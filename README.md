@@ -19,3 +19,21 @@ Este aviso de direitos autorais e este aviso de permissão devem ser incluídos 
 O CÓDIGO É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRINGÊNCIA. EM NENHUM CASO OS AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, TORT OU OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
 
 Para mais informações sobre a Licença MIT: https://opensource.org/licenses/MIT
+
+RESULTADOS COM BASE NOS DADOS DA INTEL CRIADORA DO PCI E EVOLUÇÃO PARA PCI EXPRESS DESDE 1992: 
+
+![image](https://github.com/AndreMouraL/Simula-o-Barramento-PCI/assets/117699977/c9042009-b515-403b-ada6-eead63119daa)
+________________________________________________________________________________________________________________________
+
+RESULTADO FORMA DE ONDA PCI ABAIXO:
+
+![image](https://github.com/AndreMouraL/Simula-o-Barramento-PCI/assets/117699977/dd9b12e7-1094-4b76-a7e0-bd7042d31d08)
+
+
+__________________________________________________________________________________________________________________________
+
+PCI EXPRESS - SIMULAÇÃO ABAIXO: MOSTRA COMPARAÇÕES.
+
+![image](https://github.com/AndreMouraL/Simula-o-Barramento-PCI/assets/117699977/8ce9f134-fd06-434a-bfdc-775276904d08)
+
+
